@@ -1,0 +1,3 @@
+# Julia Bug: Incorrect Exponentiation
+
+This repository demonstrates a common error in Julia involving the exponentiation operator. The `my_function` initially uses the `^` operator incorrectly, resulting in unexpected behavior.  The corrected version uses the `*` operator for squaring.  This example highlights the importance of understanding operator precedence and the subtle differences between similar operators in Julia.
